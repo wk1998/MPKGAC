@@ -1,0 +1,1 @@
+head_id,tail_id,relation_id
