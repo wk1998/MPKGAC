@@ -1,4 +1,4 @@
-# MPKGAC
+# MMPAC
 
 是一种面向电商领域的多模态产品数据，图片，title以及原生属性三元组的多模态产品属性补全方法。采取三流架构对每种模态进行建模，并在融合层和解码层进行多模态信息的充分利用来增强属性补全效果。
 It is a multi-modal product attribute completion method for multi-modal product data, pictures, titles and original attribute triples in the e-commerce field. A three-stream architecture is adopted to model each modality, and multi-modal information is fully utilized in the fusion layer and decoding layer to enhance the attribute completion effect.
